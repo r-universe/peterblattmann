@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "SWATH2stats"]
-	path = SWATH2stats
-	url = https://github.com/peterblattmann/swath2stats
-	shallow = true
-	registered = true
